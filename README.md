@@ -7,7 +7,7 @@ Context: [Digital Audio Coding][audio] course (Mines ParisTech/S1916)
 [![Launch Binder][binder-badge]][audio-binder]
 
 [binder-badge]: https://img.shields.io/badge/Launch-Binder-blue.svg?style=flat-square
-[audio-binder]: https://mybinder.org/v2/gh/boisgera/audio-notebooks/master
+[audio-binder]: https://github.com/gwenolelegars/filter_reverb
 
 
 
